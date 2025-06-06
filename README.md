@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">Driven Developer, Designer, and Innovator<br><br>Focused on solving real-world problems through the fusion of electronics and software development. I thrive on testing new ideas, exploring emerging technologies, and creating solutions that make an impact. Always learning, always building.</h4>
+<h4 align="left">Driven Developer, Designer, and Innovator<br><br>Focused on solving real-world problems through the fusion of electronics and software development. I thrive on testing new ideas, exploring emerging technologies and trying to forging innovations that make an impact. Always learning, always building.</h4>
 
 ###
 
