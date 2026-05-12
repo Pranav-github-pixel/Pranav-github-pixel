@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="left"> Tools</h3>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">🗣️Languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">  Stats :</h3>
 
 ###
 
